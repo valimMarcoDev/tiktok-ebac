@@ -1,8 +1,8 @@
 import React,{useRef,useState} from 'react'
+import VideoFooter from './components/footer/VideosFooter'
 import "./Video.css"
 
 function Video() {
-
   const videoRef = useRef(null)
   const [play,setPlay] = useState(false)
 
@@ -28,6 +28,8 @@ function Video() {
         >
 
         </video>
+        {/* Side bat */}
+       <VideoFooter/>
     </div>
   )
 }

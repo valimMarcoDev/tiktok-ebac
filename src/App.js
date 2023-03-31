@@ -1,5 +1,5 @@
 import "./App.css";
-import Video from "./pnpm testages/Video"
+import Video from "./pages/Video"
 
 function App() {
   return (
@@ -8,8 +8,7 @@ function App() {
       <Video />
       <Video />
       <Video />
-      <Video />
-      
+      <Video />      
       </div>
     </div>
   );
