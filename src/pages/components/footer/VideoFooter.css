@@ -32,7 +32,7 @@
   bottom: 2px;
   right: 20px;
   height: 50px;
-  filter: invert(0);
+  filter: invert(1);
 }
 
 @keyframes spinTheRecord {
