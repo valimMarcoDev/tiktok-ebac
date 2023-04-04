@@ -18,7 +18,7 @@ function VideoFooter({name, description, music}) {
       <img
         className="videoFooter__record"
         alt="Imagem de um vinil girando"
-        src="https://privaty.com.br/wp-content/uploads/2023/03/vinil.png"
+        src="https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-f57d0.appspot.com/o/vinil.png?alt=media&token=b2bc3870-e55c-4064-9e2f-02fb369d7524"
       />
     </div>
   );
